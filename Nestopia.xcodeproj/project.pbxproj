@@ -326,7 +326,6 @@
 		876BE45E21ACA18800290705 /* NstBoardMagicKidGoogoo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 876BE45C21ACA18700290705 /* NstBoardMagicKidGoogoo.cpp */; };
 		876BE46121ACA1AB00290705 /* NstBoardNamcot175.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 876BE46021ACA1AB00290705 /* NstBoardNamcot175.cpp */; };
 		8D5B49B0048680CD000E48DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */; };
-		8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */; };
 		8F28FD4A29FD3DB1008FC4A9 /* NstBoardUnl158b.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F28FD4429FD3DB0008FC4A9 /* NstBoardUnl158b.cpp */; };
 		8F28FD4B29FD3DB1008FC4A9 /* NstBoardUnlMmc3BigPrgRom.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F28FD4729FD3DB1008FC4A9 /* NstBoardUnlMmc3BigPrgRom.cpp */; };
 		8F28FD4C29FD3DB1008FC4A9 /* NstBoardUnlRetX7Gbl.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F28FD4829FD3DB1008FC4A9 /* NstBoardUnlRetX7Gbl.cpp */; };
@@ -1044,7 +1043,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D60316214DF7D0B00E9AF58 /* libz.dylib in Frameworks */,
-				8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */,
 				C6D120F91711313900E868A8 /* OpenEmuBase.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
